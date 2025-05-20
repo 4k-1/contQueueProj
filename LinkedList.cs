@@ -14,8 +14,8 @@ public class LinkedList
         }
     }
 
-```
-private Node head;
+
+    private Node head;
     private int currentNumber;
     private int count;
 
